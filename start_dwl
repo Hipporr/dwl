@@ -1,0 +1,2 @@
+#!/bin/sh
+slstatus -s | dwl -s "sh -c 'swaybg -i /home/t/walls/wallpaper1.jpg -m fill & wlr-randr --output DP-1 --mode \"1920x1080@144.001007\" & wl-paste --watch cliphist store'"
